@@ -1,0 +1,62 @@
+[
+    {
+        "name": "MS Word",
+        "icon": "https://img.icons8.com/color/48/000000/ms-word.png"
+    },
+    {
+        "name": "MS Excel",
+        "icon": "https://img.icons8.com/color/48/000000/ms-excel.png"
+    },
+    {
+        "name": "MS PowerPoint",
+        "icon": "https://img.icons8.com/color/48/000000/ms-powerpoint.png"
+    },
+    {
+        "name": "MATLAB",
+        "icon": "https://img.icons8.com/?size=100&id=r5Y16PcDkoWI&format=png&color=000000"
+    },
+    {
+        "name": "Proteus",
+        "icon": "https://img.icons8.com/?size=100&id=104090&format=png&color=000000"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python.png"
+    },
+    {
+        "name": "GNS3",
+        "icon": "https://img.icons8.com/ios-filled/48/000000/network.png"
+    },
+    {
+        "name": "Tinkercad",
+        "icon": "https://img.icons8.com/color/48/000000/arduino.png"
+    },
+    {
+        "name": "OptiSystem",
+        "icon": "https://img.icons8.com/?size=100&id=59731&format=png&color=F25081"
+    },
+    {
+        "name": "AutoCAD Electrical",
+        "icon": "https://img.icons8.com/color/48/000000/autocad.png"
+    },
+    {
+        "name": "Multisim",
+        "icon": "https://img.icons8.com/?size=100&id=77264&format=png&color=FA5252"
+    },
+    {
+        "name": "LTspice",
+        "icon": "https://img.icons8.com/ios-filled/48/000000/resistor.png"
+    },
+    {
+        "name": "Arduino IDE",
+        "icon": "https://img.icons8.com/color/48/000000/arduino.png"
+    },
+    {
+        "name": "PSpice",
+        "icon": "https://img.icons8.com/?size=100&id=11853&format=png&color=000000"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/?size=100&id=63777&format=png&color=000000g"
+    }
+]
